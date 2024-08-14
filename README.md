@@ -1,4 +1,7 @@
 ##  🚀 Streamlined End-to-End DevSecOps Kubernetes Three-Tier Project
+
+![dy](https://cdn-images-1.medium.com/max/1600/1*bUoNQyptHCy43jyCCPKxng.png)
+
 Welcome to the Three-Tier Web Application Deployment project! This repository is your guide to deploying a cutting-edge web app using ReactJS, NodeJS, and MongoDB on AWS EKS. Get hands-on with a robust DevSecOps setup leveraging the latest tools and practices.
 
 ## 🗂 Table of Contents
